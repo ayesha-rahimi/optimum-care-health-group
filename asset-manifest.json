@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/optimum-care-health-group/static/css/main.c04b401f.css",
+    "main.js": "/optimum-care-health-group/static/js/main.0c3119a4.js",
+    "static/js/867.fbf5f96f.chunk.js": "/optimum-care-health-group/static/js/867.fbf5f96f.chunk.js",
+    "static/media/primeicons.svg": "/optimum-care-health-group/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/optimum-care-health-group/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/optimum-care-health-group/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/optimum-care-health-group/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/optimum-care-health-group/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/optimum-care-health-group/index.html",
+    "main.c04b401f.css.map": "/optimum-care-health-group/static/css/main.c04b401f.css.map",
+    "main.0c3119a4.js.map": "/optimum-care-health-group/static/js/main.0c3119a4.js.map",
+    "867.fbf5f96f.chunk.js.map": "/optimum-care-health-group/static/js/867.fbf5f96f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04b401f.css",
+    "static/js/main.0c3119a4.js"
+  ]
+}

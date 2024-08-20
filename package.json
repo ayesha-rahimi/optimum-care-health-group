@@ -2,7 +2,7 @@
   "name": "healthcare-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayesha.github.io/optimum-care-health-group",
+  "homepage": "https://ayesha-rahimi.github.io/optimum-care-health-group/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
